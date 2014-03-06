@@ -1,0 +1,10 @@
+Package: BYmap
+Type: Package
+Title: Bayernkarten for the rest of us!
+Version: 1.0
+Date: 2014-03-06
+Author: Christian Zang
+Maintainer: Christian Zang <christian.zang@wzw.tum.de>
+Description: Bayernkarten for the rest of us!
+License: GPL-3
+LazyLoad: yes
